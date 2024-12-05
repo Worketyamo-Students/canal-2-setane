@@ -408,17 +408,32 @@ footer {
     flex-direction: column-reverse;
   }
   .publicity {
-    padding: 10rem;
-    display: inline;
+    display: block;
+    padding: 0 1rem;
   }
   .publicity_div > hr {
     display: none;
   }
+
   .publicity_div > h1 {
-    padding: 1rem;
+    padding: 0 1rem;
     font-size: 2rem;
     writing-mode: horizontal-tb;
     transform: rotate(360deg);
-    border-left: 1rem solid var(--btn-hover-color);
+    border-left: 1rem solid var(--secondary-color);
+  }
+  .last_section {
+    padding: 6rem 0.3rem;
+    display: flex;
+    gap: 1rem;
+  }
+  .last_section_div {
+    margin: 0 1.5;
+  }
+  .last_section_div > img {
+    width: 10rem;
+  }
+  footer {
+    margin-top: 0rem;
   }
 }
