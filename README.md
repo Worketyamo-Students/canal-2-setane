@@ -13,15 +13,17 @@ The project name **chococam** a reproduction given to **worketyamo** students to
 
 ## Installation ⚙️
 
-> git clone project-url && code ./chocam
+> git clone git@github.com:Worketyamo-Students/chococam1.git && code ./chococam1
 
 ## Contributors 💻
 
-- [SETANE ESSAME]('')
+- [SETANE ESSAME]('https://github.com/SETANE-ESSAME-EMMANUEL')
 
 ## Colors used
 
-| colors            | values             |
-| ----------------- | ------------------ |
-| --primary-colo    | white              |
-| --secondary-color | hsl(125, 15%, 45%) |
+| colors            | values                 |
+| ----------------- | ---------------------- |
+| --primary-colo    | **white**              |
+| --secondary-color | **hsl(125, 15%, 45%)** |
+
+---
