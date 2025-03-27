@@ -88,7 +88,7 @@ a:hover {
   color: var(--primary-color);
   font-weight: bolder;
   top: 65%;
-  right: 15%;
+  right: 10%;
   padding: 2%;
   border-left: 0.3srem solid var(--secondary-color);
 }
